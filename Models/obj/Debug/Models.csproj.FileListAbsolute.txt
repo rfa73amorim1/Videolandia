@@ -1,0 +1,11 @@
+D:\Workspace\DAAW\Locadora\Models\bin\Debug\Models.dll
+D:\Workspace\DAAW\Locadora\Models\bin\Debug\Models.pdb
+D:\Workspace\DAAW\Locadora\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+D:\Workspace\DAAW\Locadora\Models\obj\Debug\Models.dll
+D:\Workspace\DAAW\Locadora\Models\obj\Debug\Models.pdb
+D:\Workspace\AulaDAAW\Locadora\Models\bin\Debug\Models.dll
+D:\Workspace\AulaDAAW\Locadora\Models\bin\Debug\Models.pdb
+D:\Workspace\AulaDAAW\Locadora\Models\obj\Debug\Models.csproj.AssemblyReference.cache
+D:\Workspace\AulaDAAW\Locadora\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+D:\Workspace\AulaDAAW\Locadora\Models\obj\Debug\Models.dll
+D:\Workspace\AulaDAAW\Locadora\Models\obj\Debug\Models.pdb
