@@ -85,6 +85,7 @@ Visual Studio - 2019
 .Net Framework 4.7.2 
 
 Aplicativo Web ASP.Net (.Net Framework) com Web Forms
+
 Linguagem C#
 
 
